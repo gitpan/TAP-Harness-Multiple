@@ -1,10 +1,10 @@
 --- #YAML:1.0
 name:               TAP-Harness-Multiple
-version:            0.03
+version:            0.04
 abstract:           Run and archive multiple test harnesses in a single harness
 author:
     - James E Keenan (jkeenan@cpan.org)
-license:            unknown
+license:            perl
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
